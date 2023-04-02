@@ -1,5 +1,5 @@
-# Built Different
-### FTC Team 21370
+# Built Different Robotics
+### FTC Team 21370 
 ### Robotics Team Based in Redmond, WA, United States
 ### Rookie Year 2022, FTC state qualified in 2022
 ## Who Are We?
