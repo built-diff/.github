@@ -1,7 +1,7 @@
 # Built Different
+### FTC Team 21370
 ### Robotics Team based in Redmond, WA, United States
-### FIRST Tech Challenge team 21370
-#### Rookie Year 2022, FTC state qualified in 2022
+### Rookie Year 2022, FTC state qualified in 2022
 ## Who Are We?
 From Redmond and Tesla Stem High School, we are a group that is passionate about robotics.
 
