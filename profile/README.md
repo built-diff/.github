@@ -5,4 +5,4 @@
 ## Who Are We?
 From Redmond and Tesla Stem High School, we are a group that is passionate about robotics.
 
-Many of our members are previous world championship qualifying VEX IQ competitors, with successful FTC competitors as well.
+Many of our members are previous world championship qualifying VEX IQ competitors.
