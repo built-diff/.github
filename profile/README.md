@@ -1,6 +1,9 @@
+# This team will likely not compete next year.
+## Mentions to teams members moved to will be here
+
 # Built Different Robotics
 ### Robotics Team Based in Redmond, WA, United States
-### 2023-2024 - recruiting and restructuring in progress
+### 2023-2024 - Retired till further notice
 ### 2022-2023 - FTC Team 21370 
 ### Rookie Year 2022, FTC state qualified in 2022
 ## Who Are We?
