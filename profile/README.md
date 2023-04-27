@@ -1,5 +1,5 @@
-# This team will likely not compete next year.
-## Mentions to teams members moved to will be here
+# This team will likely not compete for the foreseeable future, due to most members joining other teams.
+### Mentions to teams members moved to will be here
 
 # Built Different Robotics
 ### Robotics Team Based in Redmond, WA, United States
